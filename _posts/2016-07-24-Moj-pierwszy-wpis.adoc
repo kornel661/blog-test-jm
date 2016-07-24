@@ -1,6 +1,6 @@
 = Mój pierwszy wpis
-:hp-tags: genealogia, wprowadzenie
-:hp-image: Franciszek%20Mocek%20ur%201864%20small.jpg
+:hp-tags: genealogia, wprowadzenie,
+//:hp-image: Franciszek%20Mocek%20ur%201864%20small.jpg
 
 == Po pierwsze
 
