@@ -16,6 +16,16 @@
 * dwa,
 * trzy.
 
+//^
+
+Nabiał::
+* Mleko
+* Jajka
+Pieczywo::
+* Chleb
+Owoce::
+* Banany
+
 == Po drugie
 
 Treść.
