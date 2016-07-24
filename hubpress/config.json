@@ -4,7 +4,12 @@
     "repositoryName": "blog-test-jm",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "Genealoga",
+    "description": "Opis blogu"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
