@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Genealogia]]></title><description><![CDATA[Opis blogu]]></description><link>https://kornel661.github.io/blog-test-jm</link><generator>RSS for Node</generator><lastBuildDate>Sun, 24 Jul 2016 17:17:58 GMT</lastBuildDate><atom:link href="https://kornel661.github.io/blog-test-jm/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Tytuł wpisu]]></title><description><![CDATA[<div class="sect1">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Genealogia]]></title><description><![CDATA[Opis blogu]]></description><link>https://kornel661.github.io/blog-test-jm</link><generator>RSS for Node</generator><lastBuildDate>Sun, 24 Jul 2016 17:24:29 GMT</lastBuildDate><atom:link href="https://kornel661.github.io/blog-test-jm/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Tytuł wpisu]]></title><description><![CDATA[<div class="sect1">
 <h2 id="_po_pierwsze">Po pierwsze</h2>
 <div class="sectionbody">
 <div class="paragraph">
@@ -11,6 +11,16 @@
 <div class="sectionbody">
 <div class="paragraph">
 <p>Treść.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_wideo">Wideo</h2>
+<div class="sectionbody">
+<div class="videoblock">
+<div class="content">
+<iframe src="https://www.youtube.com/embed/2MW6CrxScLk?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 </div>
 </div>
 </div>]]></description><link>https://kornel661.github.io/blog-test-jm/2016/07/24/Tytul-wpisu.html</link><guid isPermaLink="true">https://kornel661.github.io/blog-test-jm/2016/07/24/Tytul-wpisu.html</guid><category><![CDATA[genealogia]]></category><category><![CDATA[ wprowadzenie]]></category><dc:creator><![CDATA[Kornel Maczyński]]></dc:creator><pubDate>Sun, 24 Jul 2016 00:00:00 GMT</pubDate></item></channel></rss>
