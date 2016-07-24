@@ -1,5 +1,6 @@
 = Tytuł wpisu
 :hp-tags: genealogia, wprowadzenie
+:hp-image: "Franciszek Mocek ur 1864 small.jpg"
 
 == Po pierwsze
 
