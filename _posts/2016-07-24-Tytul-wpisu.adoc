@@ -1,6 +1,6 @@
 = Tytuł wpisu
 :hp-tags: genealogia, wprowadzenie
-:hp-image: Franciszek Mocek ur 1864 small.jpg
+:hp-image: Franciszek%20Mocek%20ur%201864%20small.jpg
 
 == Po pierwsze
 
@@ -16,6 +16,6 @@ WARNING: Ostrzeżenie!
 
 TIP: Wskazówka.
 
-image::"Franciszek Mocek ur 1864 small.jpg"
+image::Franciszek%20Mocek%20ur%201864%20small.jpg[]
 
 video::2MW6CrxScLk[youtube]
