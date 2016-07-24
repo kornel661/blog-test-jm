@@ -4,7 +4,7 @@
 
 == Po pierwsze
 
-Treść.
+*Treść* _jest ważna_. `Być albo nie być`
 
 == Po drugie
 
