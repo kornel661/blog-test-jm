@@ -8,7 +8,9 @@
     "title": "Genealoga",
     "description": "Opis blogu"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "github": "kornel661"
+  },
   "theme": {
     "name": "casper"
   }
