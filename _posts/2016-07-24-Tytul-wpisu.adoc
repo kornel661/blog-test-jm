@@ -10,6 +10,12 @@ Treść.
 
 Treść.
 
-== Wideo
+== Media
+
+WARNING: Ostrzeżenie!
+
+TIP: Wskazówka.
+
+image::"Franciszek Mocek ur 1864 small.jpg"
 
 video::2MW6CrxScLk[youtube]
