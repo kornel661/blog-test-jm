@@ -1,3 +1,10 @@
 = Tytuł wpisu
+:hp-tags: genealogia, wprowadzenie
+
+== Po pierwsze
+
+Treść.
+
+== Po drugie
 
 Treść.
