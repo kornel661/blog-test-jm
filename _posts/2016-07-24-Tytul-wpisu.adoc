@@ -36,6 +36,6 @@ WARNING: Ostrzeżenie!
 
 TIP: Wskazówka.
 
-image::Franciszek%20Mocek%20ur%201864%20small.jpg[]
+image::Franciszek%20Mocek%20ur%201864%20small.jpg[Świadectwo urodzenia]
 
 video::2MW6CrxScLk[youtube]
