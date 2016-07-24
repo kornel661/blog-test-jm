@@ -6,6 +6,16 @@
 
 *Treść* _jest ważna_. `Być albo nie być`
 
+.Tytuł listy.
+. Jeden.
+. Dwa.
+. Trzy.
+
+.Tytuł listy.
+* Jeden,
+* dwa,
+* trzy.
+
 == Po drugie
 
 Treść.
